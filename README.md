@@ -1,2 +1,2 @@
 # Plexos-Institute
-Discuss and record challenges and solutions using emerging technologies.
+Welcome to the interactive creation of Plexos Institute. Be welcome to collaborate and share your thoughts.
